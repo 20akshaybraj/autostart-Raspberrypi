@@ -1,2 +1,2 @@
-# autostart-Raspberrypi
-Autostart a Python Script on Booting a Raspberry Pi
+# Autostart a Python Script on Booting a Raspberry Pi
+This repository provides a comprehensive guide on how to automatically run a Python script when a Raspberry Pi boots up. Automating the execution of a Python script on boot is a common requirement for projects involving Raspberry Pi. Whether you're developing a home automation system, a monitoring tool, or any other application, ensuring your script runs on boot can enhance reliability and reduce manual intervention.
