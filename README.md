@@ -4,7 +4,7 @@ This repository provides a comprehensive guide on how to automatically run a Pyt
 ## Setup
 
 1. The first step is to create a directory named "autostart" in the ".config" directory. If not able to navigate to the ".config" directory, then right click on the mouse and click "show hidden". Now you will be able to locate the ".config" directory.
-2. For scripts that require a virtual environment, create a file inside the autostart directory with any name you like, but it must end in ".desktop". Refer to the [aurostart_code.desktop]([www.google.com](https://github.com/20akshaybraj/python-autostart-on-raspberrypi/blob/main/autostart_code.desktop)) for the contents of the file. The second line of the file is:
+2. For scripts that require a virtual environment, create a file inside the autostart directory with any name you like, but it must end in ".desktop". Refer to the [aurostart_code.desktop](https://github.com/20akshaybraj/python-autostart-on-raspberrypi/blob/main/autostart_code.desktop) for the contents of the file. The second line of the file is:
 
     ```sh
     Exec=sudo bash /path/to/your/run_reboot.sh
